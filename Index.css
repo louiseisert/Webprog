@@ -13,6 +13,12 @@ body {
    width: auto;
  }
 
+ .label{
+   color:white;
+   float: left;
+   width: 150px;
+ }
+
  /* The navbar */
  .topnav {
    overflow: hidden;
